@@ -1,0 +1,8 @@
+[
+    {"name": "  jErMuH  ", "email": "JERMU@EMAIL.com", "active": true},
+    {"name": "teemu ", "email": "teemu@test.fi", "active": false},
+    {"name": "  MIKKO", "email": "invalid-email", "active": true},
+    {"name": "AnNa", "email": "ANNA@PRO.FI", "active": true},
+    {"name": "   MattiMeikäläinen ", "email": "matti@Moi.FI", "active": false},
+    {"name": " HacKerMan", "active": true}
+]
