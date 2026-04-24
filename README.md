@@ -1,4 +1,4 @@
-# Python-Learning Path: 5 project bundle 
+# Python -Learning Path: 5 project bundle 
 
 This repository contains my first steps with Python programming as part of the Boot.dev learning path. 
 The projects have been composed as a singular bundle that represents my development from introductory Python to Object-Oriented (OOP) and Functional Programming (FP), as well as briefly touching on the use of APIs.
